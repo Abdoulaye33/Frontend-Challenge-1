@@ -1,0 +1,42 @@
+
+.mains {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 24.5rem;
+    border-radius: 20px;
+    box-shadow: 0 15px 20px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    margin-left: 500px;
+}
+.danceur  {
+    background-color: #9575CD;
+     width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+a  { 
+    text-decoration: none;
+    cursor: pointer;
+}
+button    {
+    cursor: pointer;
+    background-color: #9575CD;
+    width: 300px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+}
+.container {
+    display: flex;
+    align-items: center;
+  }
+  .change-container {
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+  }
+  
